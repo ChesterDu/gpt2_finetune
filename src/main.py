@@ -68,6 +68,7 @@ def train(sess, dataset, is_train=True):
             }
         else:
             print("DATANAME ERROR")
+        # print("It made it here. The next step is running the training process.")
         outputs = sess.run(output_feed, input_feed)
         loss.append(outputs[0])
         if FLAGS.data_name == "multi_roc" or FLAGS.data_name == "multi_kg":
@@ -241,25 +242,29 @@ with tf.Session(config=config) as sess:
         print("Reading model parameters from %s and initialize the parameters for fine-tuning." % (train_dir))
 
     if FLAGS.is_train:
+        counter = 0
         best_loss = 1e10
         pre_losses = [1e18] * 3
         while True:
             random.shuffle(data_train)
             start_time = time.time()
             loss = train(sess, data_train, is_train=True)
+            counter += 1
             if loss > max(pre_losses):  # Learning rate decay
                 sess.run(learning_rate_decay_op)
             pre_losses = pre_losses[1:] + [loss]
             print("Gen epoch %d learning rate %.4f epoch-time %.4f: " % (epoch.eval(), learning_rate.eval(), time.time() - start_time))
             print("PPL on training set:", loss)
-            loss = train(sess, data_test, is_train=False)
-            print("        PPL on validation set:", loss)
-            if loss < best_loss:
-                best_loss = loss
-                loss = train(sess, data_test, is_train=False)
-                print("        PPL on testing set:", loss)
+#             loss = train(sess, data_test, is_train=False)
+#             print("        PPL on validation set:", loss)
+#             if loss < best_loss:
+#                 best_loss = loss
+#             loss = train(sess, data_test, is_train=False)
+#             print("        PPL on testing set:", loss)
+            if counter == 8 or loss < 4.3:
                 saver.save(sess, '%s/checkpoint' % train_dir, global_step=global_step.eval())
                 print("saving parameters in %s" % train_dir)
+                break
     else:
         if FLAGS.cond:
             print("begin conditionally generating stories......")
