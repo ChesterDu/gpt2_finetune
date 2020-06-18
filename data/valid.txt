@@ -1,0 +1,1960 @@
+ferret is at pet store
+get onto web has prerequisite for turn on your computer
+most rock has property hard
+necklace receives action wear around neck
+human has a two leg
+go to pub is used for have drink
+bathe has prerequisite for water
+someone is at desk
+exercise has property very good for you
+pet is animal
+square has a four side
+26 letter is at english alphabet
+see art has prerequisite for go to art museum
+see is used for cut
+comb is capable of part your hair
+play lacrosse has subevent run
+person desires privacy
+cow is at countryside
+go to pub has subevent have drink
+bus is form of public transportation
+all car has a engine
+book has a information
+maintain good health has subevent exercise
+urinate causes relief
+star is at outer space
+bring suit has prerequisite for hire lawyer
+guard is capable of sound alarm
+fruit is capable of grow on tree
+batter is capable of hit baseball
+ice cream is at freezer
+volume is at library
+bath is used for relaxation
+show is used for entertain
+death is at war
+seat is at movie
+pen is at pocket
+test tube is at chemistry lab
+planet is at universe
+classroom is at university
+man is capable of tie tie
+go to restaurant has prerequisite for make reservation
+antenna is at roof
+woolen fabric is used for make clothe
+watch film has subevent cry
+musician is capable of play musical instrument
+dream causes nightmare
+closet is used for store clothe
+kiss someone is used for express love
+walk in rain causes you get very wet
+buy hamburger causes eat
+use computer is used for work
+shade is at tree
+tooth is at your mouth
+stove is used for cook
+think causes idea
+clock is at desk
+have fun has subevent laugh
+clothe store change room is used for try on clothe
+satellite is at orbit
+sailboat has property power by wind
+someone is at doctor office
+boy is capable of fancy girl
+go to movie is used for be entertain
+board is used for build
+win baseball game has subevent cheer
+cash in has subevent receive money
+attend lecture has first subevent of sit
+kill someone has prerequisite for get weapon
+blotter is at desk
+all paper receives action recycle
+plankton is at water
+sex is part of human experience
+do housework has prerequisite for mop
+garbage is at landfill
+play game has prerequisite for know rule
+beer mug is used for drink beer from
+pass class has prerequisite for study hard
+doll is used for play with
+chest is at drawer in bedroom
+robin egg has property blue
+sign is at fork in road
+ladder is at garage
+automobile is at street
+toothbrush is at dentist
+something is at train station
+duck is at pond
+someone is at tree
+bus is at bus stop
+pair is at pant in closet
+book is at desk
+go to pub causes get drunk
+buy present for others has prerequisite for money
+something is at bottom of ocean
+stool is at bar
+someone is at fair
+eraser is at school
+see movie has subevent eat popcorn
+toy car is used for play
+yard is used for play
+add up column of number causes sum
+dive has subevent hold your breath
+check is at counter in airport
+author is capable of write that book
+trash is at dump
+person desires their own house
+ski has subevent you fall over
+see is used for cut thing such as wood
+tennis game is used for exercise
+post office is used for mail letter
+aisle is used for walk through
+person desires be knowledgeable
+make bread has subevent knead of dough
+scientist is at laboratory
+read is activity
+tongue depressor is at doctor
+go to get haircut has subevent read magazine
+listen to radio has subevent dance
+battery is capable of power flashlight
+cat is at table
+weapon is at war
+bike has a two wheel
+furniture is at house
+book receives action find in library
+rock is at grind
+park ranger is at state park
+pretend has prerequisite for have imagination
+advertise is at newspaper
+traffic is at street
+table cloth is at table
+bride and groom is at wed
+commit murder has subevent kill someone
+parent is capable of name their child
+get up early has prerequisite for set alarm
+read to your child is used for educate them
+beaker is at chemistry lab
+other planet is at outerspace
+storm has property dangerous
+woman is capable of captain ship
+make friend has subevent talk
+dish is used for serve food
+artist is at art show
+smoke has prerequisite for light cigarette
+listen to music has prerequisite for ear
+wash your car causes your car to be clean
+go to school has prerequisite for enroll
+see band has subevent listen to music
+breathe has prerequisite for inhale
+fish has subevent catch fish
+serve customer has subevent get tip
+something is at mountain
+bring in verdict has prerequisite for judgement
+sun is capable of shine brightly
+opera glass is at opera
+person has a name
+gardener is capable of water her plant
+listen to radio has prerequisite for have radio
+drink has prerequisite for swallow
+airplane has a wing
+sprinkler is capable of water lawn
+soap dish is used for hold soap
+earth has a melt core
+take break has subevent smoke cigarette
+jump out of window has subevent fall to grind
+child is capable of trade pokemon card
+dance club is used for dance
+vent brush is used for clean vent
+hoist is used for lift heavy object
+beanbag chair is used for sit down
+fork is at kitchen
+student is capable of study book
+radiator is used for heat room
+visit other country has subevent sightsee
+meet person has prerequisite for go to bar
+asteroid is at outerspace
+enjoy company of your friend has subevent drink
+gun is used for shoot thing
+spout is used for pour liquid
+dish is at cabinet
+cheese has a flavor
+go see film has subevent buy popcorn
+human has a brain
+surf has subevent get wet
+make bread has subevent knead dough
+read newspaper has prerequisite for have newspaper
+screwdriver is at toolbox
+human has a two arm
+editorial is at newspaper
+bunsen burner is at laboratory
+scientist is capable of prove theory
+explosive has property dangerous
+tub is used for take bath
+something is at chair
+someone is at corner
+be dirty causes desire of bathe
+cannonball is used for sink ship
+flirt has subevent smile
+grape is used for make wine
+letter is part of word
+leave has property green
+programmer is capable of write software
+girl is capable of dress doll
+shoulder bag is used for carry thing
+thumbtack has property sharp
+oven is used for cook
+tree has property alive
+eat ice cream causes happiness
+temple is used for religion
+baseball bat is used for hit baseball
+read letter has prerequisite for open envelope
+glass is used for correct vision
+woodwind is used for make music
+denim is used for make jean
+fire is capable of hurt person
+bell is used for make noise
+take bus is used for travel
+write is used for communicate
+double bass is used for play music
+eat apple has prerequisite for wash it
+entrance is used for enter build
+sheet of paper is used for write on
+sugar is used for sweeten food
+act in play causes applause
+fall causes pain
+watch tv show has prerequisite for turn on television
+take final causes stress
+be hot causes desire of go for swim
+picture is capable of hang on wall
+test causes desire of study for subject
+electric fan is used for cool
+heart is used for pump blood
+have sex is used for fun
+queen is used for rule country
+person is capable of plant tree
+musical instrument is used for make music
+article in magazine is used for read
+toothbrush head is used for clean your tooth
+coin slot is used for put coin in
+eat breakfast in bed causes crumb in bed
+shallow water is used for wade
+closet is used for store thing
+stay in bed has subevent sleep
+cardboard is used for make box
+kite is used for fly
+bagpipe is used for make music
+person is capable of drown in water
+lip is used for speak
+light fire has prerequisite for match
+catch mumps has subevent get sick
+start fire has subevent light match
+temple is used for worship
+accordion is used for make music
+person is capable of milk cow
+drive to work has prerequisite for start car
+towel rack is used for hang towel
+lose weight has prerequisite for eat less
+boat is used for sail
+wheat is used for make flour
+create art has subevent paint
+attend classical concert has subevent listen to music
+vegetable garden is used for grow vegetable
+obstruct justice causes injustice
+school cafeteria is at school
+fish is at pond
+reception area is at hotel
+screwdriver is at tool box
+tissue holder is at bathroom
+snake is at garden
+t-shirt is at closet
+ficus is at forest
+bomb is at war
+theater is at city
+staple remover is at office
+laser is at cd player
+son is at family
+mammoth is at ice age
+sound control room is at record studio
+government is at country
+milk is at refrigerator
+fire is at fireplace
+human is at automobile
+front yard is at front of house
+store shelf is at store
+potato is at market
+bat is at belfry
+marmoset is at rainforest
+eat has subevent swallow
+clothe is at suitcase
+animal desires eat
+ram is part of computer
+teenager is at mall
+hairbrush is used for brush hair
+bark is part of tree
+build is at town
+electron is part of atom
+live has last subevent of die
+pen is at college
+human is capable of make mistake
+father is part of family
+money is made of paper
+condom is used for protection
+kiss has subevent close your eye
+heater is used for heat
+bathtub is at bathroom
+towel is at bathroom
+mattress is part of bed
+person is capable of sing
+person is at earth
+cloud is at in sky
+table is made of wood
+bird is capable of fly
+lamp is at desk
+insect is animal
+elephant is animal
+cake is made of flour
+watch is used for tell time
+person is capable of run
+knife is used for cut food
+stove is used for cook food
+glass is used for see
+bed is at at home
+doctor is at hospital
+leg is part of body
+summer has property hot
+sofa is at live room
+cover is part of book
+sun has property hot
+ferret is animal
+sex is part of reproductive cycle
+chapter is part of book
+pet is used for companionship
+proton is part of atom
+fan is at stadium
+saw has a tooth
+book receives action write by author
+dog desires gnaw on bone
+some person has property superstitious
+some animal has property dangerous
+dog desires ride in car
+horse has a 4 leg
+duck is capable of near water
+rollercoasters has property scary
+person has a sex in bed
+ski is activity
+food is at store
+fruit has a vitamin
+play sport is used for excercise
+sing causes happiness
+urine has property yellow
+ribbon has property yellow
+go to play has prerequisite for ticket
+person is capable of learn from each other
+dance has prerequisite for turn on music
+visit art gallery has subevent look at paint
+jump out of window is used for commit suicide
+coffee has a caffeine
+ear has a wax
+some men has property gay
+horse is capable of jump high
+dog is capable of smell drug
+play hockey has subevent score goal
+male is capable of father child
+teacher is capable of fail student
+drunk is at bar
+drive car has prerequisite for get license
+meet friend has subevent have sex
+take examination causes pass class
+buy beer causes get drunk
+book has a word
+spend money has prerequisite for have money
+take final has prerequisite for attend class
+painter is capable of coat wall
+blanket is capable of cover bed
+toothbrush has a bristle
+cheese is capable of age well
+pass course has subevent study
+dog desires catch frisbee
+dinner party has property fun
+person is capable of iron shirt
+have fun has prerequisite for play game
+car is capable of roll over
+hammer is capable of break glass
+stop your car has prerequisite for use brake
+build has property man make
+gardener is capable of water flower
+puzzle is at newspaper
+eat apple has subevent chew
+bring home some fish has prerequisite for go to fish market
+play is form of entertainment
+24 hour is at day
+60 second is at minute
+shampoo is at shower
+employer is capable of pay employee
+wine is alcoholic beverage
+write is form of communication
+pass your university exam has prerequisite for just study
+person desires solve problem
+calculator is used for add number
+hear news has prerequisite for turn on radio
+dog is capable of sense danger
+read has prerequisite for open book
+change society has prerequisite for change yourself
+judge is capable of right wrong
+tree is capable of shade lawn
+hear music causes dance
+person has property weird
+take bus has prerequisite for find bus stop
+take exam causes get grade
+many different culture is at world
+attend classical concert has prerequisite for ticket
+go to sleep causes dream
+trombone is used for play music
+go to party causes meet new person
+leave line has subevent you lose your place
+go to performance causes enjoyment
+air conditioner is used for cool room
+examine thing has prerequisite for pick it up
+have shower has prerequisite for take off your clothe
+sky has property blue during day
+movie receives action record on film
+student is capable of note fact
+bake cake has prerequisite for preheat oven
+glue is used for stick thing together
+hairbrush is at bathroom
+mickey mouse is at disneyland
+gasoline is capable of power car
+apple tree is at field
+dog is at doghouse
+human has a opposable thumb
+rifle is used for shoot
+have lunch has subevent drink
+discover truth has prerequisite for ask question
+some plant has property edible
+have haircut has prerequisite for go to hairdresser
+get job has prerequisite for apply for job
+park lot is at shop mall
+mouse is at trap
+barbie is at toy store
+cheese is at refrigerator
+play game causes happiness
+farmer is capable of farm corn
+bird is at nest
+compete has prerequisite for train
+cubicle is at office
+stay in bed has prerequisite for turn off alarm clock
+stay in bed has subevent sleep in
+egg is at nest
+watch film has prerequisite for go to movie
+watch tv has last subevent of turn tv off
+see your favorite show has prerequisite for turn on television
+socialise causes make friend
+have rest causes sleep
+speaker is at drive-in movie
+cow has a four stomach
+person is capable of reply to e-mail
+post-it note is at your desk
+relax has subevent read
+paper receives action recycle
+have shower has prerequisite for turn on water
+buy food has prerequisite for go to grocery store
+prove your physical endurance has prerequisite for run marathon
+land is at country
+zebra is at zoo
+ride bike has prerequisite for sit on bike
+airplane is capable of arrive at airport
+chess set is used for play game of chess
+sex is capable of be make love
+view video has prerequisite for have vcr
+stream is at forest
+need money causes desire of go to work
+basement is at closet
+eye is used for look
+park zone is used for park your car
+compute sum causes get answer
+ride horse has prerequisite for get saddle
+shelf is at closet
+floor is at your bed
+paint is at art show
+researcher is at laboratory
+shark is at pacific ocean
+bell is used for ring
+cat has a sharp claw
+do housework has prerequisite for vacuum
+apple has a core
+globe has property round
+beauty is at eye of beholder
+fish has a gill
+scale is used for weigh object
+car has a window
+candle is used for light room
+spider web is at corner
+ring is at your finger
+bathroom is at rest area
+person has a five finger on each hand
+planet has property round
+butter receives action make from milk
+read book has prerequisite for go to library
+get onto web has prerequisite for sit down
+trombone has property hard
+pet receives action wear around neck
+go to pub is at have drink
+bathe is capable of water
+someone is used for desk
+exercise has property universe
+socialise has a four side
+see art has prerequisite for part your hair
+cheese is used for cut
+death is capable of part your hair
+play lacrosse has prerequisite for run
+person is at privacy
+cow is used for countryside
+go to pub has prerequisite for have drink
+tissue holder has a engine
+book is capable of information
+happiness has subevent exercise
+urinate is used for relief
+star is at shower
+cardboard has prerequisite for hire lawyer
+person is capable of sound alarm
+shoulder bag is capable of grow on tree
+mango is capable of hit baseball
+ice cream is at cook
+volume is at bad review
+bath is used for enter build
+make friend is used for entertain
+school cafeteria is at war
+seat is at companionship
+kill someone is at pocket
+test tube is capable of chemistry lab
+classroom is at make clothe
+antenna is used for roof
+woolen fabric is used for cook
+horse is capable of play musical instrument
+dream causes get license
+closet is capable of store clothe
+farmer is used for express love
+walk in rain causes happiness
+buy hamburger has subevent eat
+use computer is used for clean vent
+shade is at your desk
+stove has subevent cook
+think causes cut food
+clock has prerequisite for desk
+arkansas has subevent state
+have fun has subevent write instrument
+clothe store change room is used for female
+satellite is at corner
+sailboat has property flower
+person is at doctor office
+boy is capable of state
+go to movie has property be entertain
+board causes build
+cat has subevent cheer
+towel rack has subevent receive money
+bathtub has first subevent of sit
+kill someone has prerequisite for wear around neck
+blotter is at work
+all paper desires recycle
+cannonball is at water
+sex has property human experience
+read newspaper has prerequisite for mop
+garbage is capable of landfill
+drink has subevent you be thirsty
+play game has prerequisite for house
+planet has prerequisite for study hard
+doll receives action play with
+air conditioner is at drawer in bedroom
+robin egg receives action blue
+sign is at walk on water
+smoke is at garage
+automobile is at pocket
+toothbrush is used for dentist
+tree is at train station
+car is at pond
+someone has subevent tree
+pen is at bus stop
+pair has prerequisite for pant in closet
+fish is at desk
+go to pub has prerequisite for get drunk
+tree has prerequisite for money
+something is at tree
+tea is capable of drink
+someone is at train
+stay in bed is at school
+grass has subevent eat popcorn
+dog is used for play
+dive has subevent bus stop
+gun is at counter in airport
+someone is capable of write that book
+pen is at dump
+front yard desires their own house
+drink has subevent you fall over
+dance club is used for cut thing such as wood
+tennis game is used for bird
+bagel is used for mail letter
+beaker is used for walk through
+catch mumps desires be knowledgeable
+make bread has prerequisite for knead of dough
+scientist is used for laboratory
+tongue depressor has prerequisite for doctor
+go to get haircut has subevent art show
+read has subevent dance
+person is capable of power flashlight
+cat is used for table
+weapon is at right wrong
+letter has a two wheel
+furniture is at start car
+book receives action make clothe
+rock is at hang towel
+fish is at state park
+butter has prerequisite for have imagination
+advertise has prerequisite for newspaper
+traffic is at excercise
+eat breakfast in bed is at table
+bride and groom is at day
+commit murder has subevent spice
+parent is capable of make reservation
+get up early has a set alarm
+read to your child is used for fun
+german is at language
+beaker has property chemistry lab
+theater is at outerspace
+student has property dangerous
+woman is used for captain ship
+musical instrument has subevent talk
+dish is used for bathe
+basement is at art show
+smoke has prerequisite for art show
+listen to music has prerequisite for movie
+arkansas causes your car to be clean
+go to school has property enroll
+see band has subevent grow on tree
+breathe has last subevent of inhale
+fish causes catch fish
+serve customer has subevent wade
+something is at tree
+bring in verdict has prerequisite for water
+sun has subevent shine brightly
+opera glass is at dangerous
+get job has a name
+battery is capable of water her plant
+listen to radio has prerequisite for lose his friend
+toothbrush has prerequisite for swallow
+airplane has a recycle
+sprinkler is capable of match
+soap dish is used for atom
+earth has a meet new person
+take break has subevent happiness
+jump out of window has prerequisite for fall to grind
+child is at trade pokemon card
+guard is used for dance
+have lunch is used for clean vent
+hoist is used for sleep in
+beanbag chair is used for desk
+fork is at sharp
+student is capable of four side
+visit other country is at sightsee
+meet person is at go to bar
+asteroid is used for outerspace
+star has subevent drink
+radiator is used for pour liquid
+dish is at laboratory
+cheese causes flavor
+go see film is used for buy popcorn
+human has a get drunk
+surf is capable of get wet
+make bread has subevent freezer
+all paper has prerequisite for have newspaper
+show is at toolbox
+human has a laboratory
+researcher is at newspaper
+bunsen burner is at pay employee
+scientist is capable of in sky
+dog has property dangerous
+listen to radio is used for take bath
+kite is at chair
+star is at corner
+sex has prerequisite for good thing
+flag is at symbol
+horse is used for large mammal
+helium causes desire of bathe
+dollar causes money
+flute is used for wind instrument
+cannonball is used for gnaw on bone
+stream is used for make wine
+new mexico is part of word
+leave is at green
+programmer is capable of street
+buy beer is capable of dress doll
+german is used for carry thing
+tooth has property sharp
+oven has last subevent of cook
+tree has property bed
+temple is at religion
+listen to radio is used for hit baseball
+read letter is capable of open envelope
+listen to radio is used for correct vision
+woodwind is at make music
+test tube is used for make jean
+fire is capable of bathroom
+person is used for make noise
+take bus is used for make wine
+drive to work is used for communicate
+double bass is capable of play music
+leg has prerequisite for wash it
+explosive is used for enter build
+new mexico has a state
+linen is automobile
+sheet of paper has a write on
+sugar causes sweeten food
+bell causes applause
+fall is used for pain
+have shower has prerequisite for turn on television
+take final causes go to art museum
+potato causes desire of go for swim
+picture is capable of travel in space
+classroom causes desire of study for subject
+electric fan has property cool
+father is used for fun
+queen is used for shoot
+leave is capable of plant tree
+some men is used for make music
+article in magazine causes read
+toothbrush head causes clean your tooth
+coin slot is used for 4 leg
+eat breakfast in bed is part of crumb in bed
+spaniel is used for wade
+closet is capable of store thing
+stay in bed has prerequisite for sleep
+cardboard has a make box
+kite is used for open book
+bagpipe is used for laboratory
+person has subevent drown in water
+lip is capable of speak
+light fire has prerequisite for ride in car
+catch mumps has subevent language
+start fire is used for light match
+temple is used for read
+accordion is used for feline
+person is used for milk cow
+oven has prerequisite for start car
+towel rack is part of hang towel
+closet has prerequisite for eat less
+boat has prerequisite for sail
+wheat is used for street
+create art has subevent idea
+shampoo has subevent listen to music
+strawberry has subevent fruit
+vegetable garden is used for form of communication
+obstruct justice has subevent injustice
+lion is capable of feline
+rifle is at school
+battery is at pond
+hibiscus is at hotel
+socialise is at tool box
+mattress is at garden
+t-shirt is at pick it up
+person is at forest
+explosive is at war
+theater has prerequisite for city
+staple remover has a office
+laser is at in sky
+son is at cover bed
+mammoth is capable of ice age
+go to pub is at record studio
+fish is at country
+milk is at table
+fire is at water
+entrance is at automobile
+other planet is at front of house
+store shelf is used for store
+write is at market
+marmoset is at art show
+leave has subevent swallow
+clothe is at belfry
+tomato is used for fruit
+t-shirt desires eat
+ram is part of laboratory
+teenager is used for mall
+violence is used for brush hair
+bark is used for tree
+rifle is at town
+electron is capable of atom
+live has first subevent of die
+pen is at field
+human is capable of animal
+ping pong is part of family
+money is made of spice
+robin egg is used for protection
+play game is used for have fun
+kiss has subevent get wet
+sheet of paper is used for heat
+sign is at bathroom
+towel is at shower
+mattress is used for bed
+person is used for sing
+person is at recycle
+cloud is at power flashlight
+table is at wood
+bird is used for fly
+lamp is at read
+mango is at fruit
+sew has property hobby
+salt is at spice
+saw is animal
+grass is at plant
+elephant is part of animal
+spinach causes desire of vegetable
+cake has prerequisite for flour
+watch is at tell time
+iris is used for flower
+knife is used for yellow
+stove is capable of cook food
+glass is used for be entertain
+bed is part of at home
+bread is at food
+doctor is used for hospital
+summer is capable of hot
+sofa is used for live room
+sun has property study book
+have rest is animal
+shark has a fish
+human is part of reproductive cycle
+chapter is part of tool box
+proton has prerequisite for atom
+fan is at near water
+saw has a turn tv off
+book has first subevent of write by author
+some animal desires gnaw on bone
+someone has property superstitious
+horse is art show
+live has property dangerous
+earth desires ride in car
+towel rack has a 4 leg
+duck is at near water
+rollercoasters is at scary
+person has a bathroom
+ski is used for activity
+butter is at store
+fruit has a college
+play sport is used for cook
+sprinkler causes happiness
+glue has property yellow
+author has property yellow
+book is at often
+go to play is at ticket
+person is capable of bird
+dance has prerequisite for pass course
+visit art gallery has subevent roof
+jump out of window is at commit suicide
+happiness causes emotion
+coffee has a bad review
+ice has a wax
+some men has property exercise
+dog is capable of toy store
+play hockey is at score goal
+male is capable of window
+teacher is capable of sleep
+ice is capable of solid
+ferret is at bar
+cow has prerequisite for get license
+meet friend has subevent weigh object
+buy beer causes die
+eat breakfast in bed has a word
+paint has prerequisite for have money
+take final is attend class
+painter has subevent coat wall
+blanket causes cover bed
+toothbrush has a animal
+cheese is capable of mix
+pass course has subevent catch frisbee
+spaniel has subevent dog
+dog has property catch frisbee
+dinner party has prerequisite for fun
+person is capable of get drunk
+have fun has prerequisite for fail student
+car has a roll over
+sky is capable of break glass
+stop your car is at use brake
+build is at man make
+gardener has a water flower
+dog is used for good friend
+24 hour is at newspaper
+cheese has subevent chew
+clothe store change room has prerequisite for go to fish market
+play is used for form of entertainment
+24 hour is at front of house
+shampoo is at ring
+employer is at pay employee
+wine is used for alcoholic beverage
+write is used for form of communication
+pass your university exam has prerequisite for water
+person has prerequisite for solve problem
+leave line is used for add number
+hibiscus has subevent flower
+dog is capable of privacy
+read has prerequisite for relaxation
+temple has prerequisite for change yourself
+judge is at right wrong
+tree is capable of make jean
+bat causes dance
+person has property be make love
+go to pub has prerequisite for find bus stop
+many different culture is at change yourself
+german has prerequisite for ticket
+south dakota causes dream
+trombone is at play music
+go to party causes round
+leave line is capable of you lose your place
+air conditioner is part of cool room
+examine thing is at pick it up
+have shower causes desire of take off your clothe
+sky has property look
+movie is used for record on film
+student is capable of serve food
+bake cake has prerequisite for reflective surface
+hairbrush causes bathroom
+mickey mouse is at nightmare
+have rest is capable of power car
+watch tv show is at field
+dog is capable of doghouse
+human has a run
+clothe is used for shoot
+have lunch is capable of drink
+bring suit has prerequisite for ask question
+some plant is at edible
+have haircut is used for go to hairdresser
+judge has prerequisite for apply for job
+gasoline is at shop mall
+mouse is at ride in car
+barbie is at eat
+see your favorite show is at refrigerator
+play game causes zoo
+farmer is at farm corn
+bird is at book
+person has prerequisite for train
+cubicle is at bathroom
+heart has prerequisite for turn off alarm clock
+stay in bed has subevent preheat oven
+egg has a nest
+snake has prerequisite for go to movie
+read has last subevent of turn tv off
+dove causes bird
+see your favorite show has property turn on television
+socialise causes table
+have rest has subevent sleep
+bed is at drive-in movie
+oil and water is used for mix
+cow has a knead of dough
+person is capable of shower
+cat is at your desk
+relax has subevent commit suicide
+paper receives action simple machine
+have shower is used for turn on water
+drive to work has prerequisite for go to grocery store
+prove your physical endurance has prerequisite for toy store
+coin slot is at country
+zebra is at have fun
+hear music has prerequisite for sit on bike
+radiator is capable of arrive at airport
+chess set is capable of play game of chess
+sex is capable of fish
+view video is used for have vcr
+stream is at chew
+sailboat causes desire of go to work
+beagle is at closet
+eye is used for make wine
+park zone is used for universe
+ride horse has prerequisite for disneyland
+floor is used for your bed
+paint is at go to work
+hammer is at laboratory
+shark causes pacific ocean
+bell has property ring
+have sex has a sharp claw
+do housework has prerequisite for enroll
+apple is at core
+globe has property sleep in
+beauty is at wear around neck
+government has a gill
+scale is used for you lose your place
+car has subevent window
+get onto web is used for light room
+spider web is at cheer
+play is at your finger
+bathroom is at bathroom
+planet has property form of public transportation
+butter has prerequisite for make from milk
+read book has property go to library
+wake up in morning has subevent yawn
+island receives action surround by water
+heat element is at oven
+doctor is capable of help patient
+play game causes win
+watch even news causes learn about current event
+go fish has subevent catch fish
+envelope is used for mail letter
+fan is used for cool off
+picnic basket is used for carry food
+answer question has prerequisite for know answer
+happiness causes desire of sing
+have long hair causes desire of have haircut
+punch someone has prerequisite for make fist
+student is capable of ask question
+ride bike has prerequisite for pedal
+gorilla is ape
+turtle has a shell
+instrument triangle is used for make music
+someone is at pool
+see movie has prerequisite for go to cinema
+knight is capable of ride horse
+finger is used for type
+go to get haircut has prerequisite for go to hairdresser
+human has a sex
+carpet is at room
+take bus has subevent sit down
+convict is at jail
+hair is at drain
+mouse is at hole in wall
+ax is used for chop wood
+smoke has property bad
+rock has property hard
+sun is capable of burn your skin
+person is capable of climb mountain
+cruise ship is used for vacation
+soak in hotspring has subevent relax
+war is defined as opposite of peace
+tool is used for build thing
+sailor is capable of tie knot
+study causes learn
+family room is used for watch tv
+word is part of sentence
+axe has property sharp
+bathe has last subevent of dry off
+locker room is used for change clothe
+prisoner is capable of from jail
+eye is part of head
+subway pass is used for ride subway
+work causes stress
+ink has property black
+sailor is capable of row boat
+have checkup has prerequisite for make appointment with doctor
+talk with someone far away has prerequisite for use telephone
+round trip ticket is used for travel
+love seat is used for sit on
+go for run has prerequisite for put on run shoe
+butter has property yellow
+run marathon causes exhaustion
+restaurant table is used for eat at
+post office is capable of forward mail
+talk to someone is used for communication
+nylon is used for make clothe
+textile is used for make clothe
+hear testimony has prerequisite for go to court
+glass has property clear
+go off strike has subevent return to work
+stick is made of wood
+fabric is used for make clothe
+play chess has subevent win
+haircutting scissor is used for cut hair
+typewriter is used for write letter
+use television has subevent change channel
+water has property blue
+person is capable of buy car
+house has property expensive
+maintain muscle strength has subevent exercise
+go to restaurant has subevent eat food
+earthquake is capable of shake grind
+mast is used for hold sail
+sheet is at linen closet
+mouse is at cupboard
+earth is at solar system
+kettle is at kitchen
+hair gel is at bathroom
+dental chair is at dentist office
+wait room is at hospital
+planet is at orbit
+bathroom is at house
+garden is at back yard
+snake is at bible
+large food store is at city
+white house is at washington d.c
+program is created by programmer
+apple is used for eat
+person is at build
+hunger causes desire of eat
+student is capable of read book
+earth is defined as world
+boot is made of leather
+table is at dine room
+dove is symbol of peace
+fire has property hot
+earth has property round
+cup is made of glass
+eye is part of face
+water is capable of flow
+sun has property bright
+horse is animal
+booger is at your nose
+rain causes flood
+be sad has subevent cry
+clothe receives action hang on hanger
+dog desires play with frisbee
+roller coaster has property fun
+stopwatch is used for time thing
+forest has a tree
+metal has property shiny
+college is at town
+boot receives action make for walk
+walk on beach has property relax
+man has property sing
+sate your hunger has prerequisite for eat something
+marijuana has property legal
+basketball receives action fill with air
+sphere has property round
+glass receives action break
+person has a two ear
+paperclip is at desk
+library has a many book
+plant is at windowsill
+get some money from someone has prerequisite for ask them
+some person has property stupid
+tire receives action fill with air
+hammer is capable of strike nail
+live be is capable of die
+baby is capable of wet diaper
+car has a radio
+sleep has prerequisite for go to bed
+get drunk has subevent you fall down
+someone is at train station
+bad thing is capable of happen to good person
+host is capable of welcome his guest
+baseball has property round
+calculator is used for do math
+seat belt is at backseat of car
+teacher is capable of plan lesson
+see exhibit has subevent learn
+fruit receives action eat
+child desires play game
+horseback ride has property fun
+ear is at head
+finger is at hand
+clean clothe has prerequisite for wash them
+enjoy film has prerequisite for go to cinema
+buy shirt has prerequisite for money
+word is capable of mean thing
+house has a roof
+lion is capable of hunt zebra
+entryway is used for enter
+parent has a child
+teacher is capable of answer question
+get pay has prerequisite for work for someone
+person desires headache
+get wet causes get cold
+stop be marry to someone has prerequisite for get divorce
+too long hair causes desire of have haircut
+prisoner is capable of attempt escape
+dog is capable of sense fear
+kill someone causes go to jail
+student is at college
+wait on line causes boredom
+hear music has subevent dance
+person has a feel
+pass sentence has prerequisite for be judge
+planet is at outer space
+dog desires chew bone
+go into trance has prerequisite for meditate
+bee is at meadow
+hit bottle has prerequisite for go to bar
+wall is at house
+magazine is at library
+teacher is capable of question student
+copy machine is at office
+violin has a string
+play card causes win money
+your love causes desire of forgive someone
+violence is at war
+lie has subevent you get catch
+fish has subevent bait hook
+tennis ball is used for play tennis
+stop your bicycle has prerequisite for use your brake
+comfort friend has subevent hug
+commit perjury has prerequisite for tell lie
+drink causes desire of urinate
+pawn is used for play chess
+pub is used for drink beer
+have haircut causes short hair
+dog is at table
+astronaut is at space shuttle
+earth has a atmosphere
+street is used for drive on
+seatbelt is at backseat of car
+hotel is used for sleep
+get divorce has prerequisite for get marry
+type has prerequisite for have keyboard
+rock is at moon
+linoleum is at kitchen
+house has a yard
+thermometer is capable of measure temperature
+airplane is at air
+go for walk has prerequisite for stand up
+person is capable of sleep at night
+meet person causes make new friend
+most bird has a wing
+stop your car has prerequisite for step on brake
+box is at garage
+something is at bridge
+communicate has subevent talk
+run errand has prerequisite for make list
+toy is capable of delight child
+slot machine is at casino
+pay cash has subevent get change
+cutlery drawer is used for store knife
+musician is capable of record song
+mosquito is capable of fly
+strike match causes flame
+country is at continent
+watch television show has prerequisite for turn on television
+go to film has prerequisite for go to movie theater
+machine gun is used for kill person
+captain is at ship
+person is capable of fear death
+bird has a wing
+something is at zoo
+play lacrosse causes injury
+attend lecture has subevent fall asleep
+space suit is at space shuttle
+teacher is capable of mark paper
+actor is capable of star in film
+teacher is capable of state fact
+see your favorite show has prerequisite for turn on tv
+read magazine causes learn
+newspaper is at library
+play has property fun
+listen to radio has prerequisite for turn radio on
+baby is capable of wet their diaper
+clarinet is at band
+bird has a two leg
+kiss someone has prerequisite for pucker up
+smoke has property bad for you
+student is capable of study math
+person desires ride horse
+snore has subevent sleep
+garden hose is used for water garden
+bed is at hospital
+playground is at park
+take oath has prerequisite for raise your right hand
+dust is at fridge
+razor is used for shave with
+attend rock concert has prerequisite for purchase ticket
+read newspaper has subevent drink coffee
+ficus is at pot
+table is at conference
+seat is at show
+stop be marry to someone has prerequisite for divorce
+cat is capable of chase mouse
+match is used for light fire
+religion has a cause many war
+child is capable of play game
+play violin has prerequisite for take lesson
+person is capable of visit place
+open gift causes suprise
+dive has prerequisite for go to pool
+have food has prerequisite for eat
+see old thing has prerequisite for visit museum
+sate your hunger has subevent eat
+eat in restaurant has prerequisite for make reservation
+crater is at suface of moon
+join army has prerequisite for enlist
+hostess is capable of welcome guest
+person is capable of experience joy
+go on stage has subevent act
+farmer is capable of seed field
+pair of pant is used for wear
+take stand has subevent testify
+temple is used for pray
+telephone is at desk
+read newspaper has prerequisite for literacy
+listen to music has prerequisite for play cd
+boredom causes desire of play game
+buy product causes spend money
+play guitar has subevent strum string
+glass is used for hold liquid
+pass class causes graduation
+bishop is at church
+fly is capable of fly
+shoe is used for protect your foot
+dream has subevent rapid eye movement
+action figure is at toy store
+fire is capable of burn house
+play sport causes injury
+start family has subevent get marry
+take bath has subevent get wet
+brewer is capable of bottle beer
+drive has property dangerous
+mop is capable of clean floor
+driftwood is at beach
+pedestrian is at street
+use computer has subevent type
+go to restaurant has subevent eat
+politician is capable of field question
+wait on table has subevent you get tip
+good is capable of battle evil
+dog is at park
+eat breakfast causes gain energy
+print on printer has prerequisite for turn printer on
+hear sing causes sing along
+cash is another word for money
+cat has property cute
+fish is capable of breathe water
+bird bone has property hollow
+peace has property good
+flower has property fragrant
+earth is part of universe
+piece is part of whole
+bookshelf is used for hold book
+person is capable of cook dinner
+decide criminal s fate is used for judge
+salt is used for season food
+dog desires be pet
+hand is capable of cup water
+fly kite has prerequisite for go outside
+oboe is used for make music
+sing has subevent open your mouth
+museum ticket is used for enter museum
+use television has prerequisite for plug it in
+chapel is used for get marry
+bucket is used for carry liquid
+highway is used for drive on
+bungalow is used for live in
+cotton is used for make clothe
+golf club is used for hit golf ball
+fork is used for eat food with
+surf web has prerequisite for connect to internet
+animal has property alive
+smoker is capable of light cigarette
+see movie has prerequisite for buy ticket
+enjoy film has prerequisite for buy ticket
+chapel is used for pray
+machine is used for work
+toothbrush is used for clean tooth
+space is area
+boat is form of transportation
+clipboard is used for hold paper
+crime causes desire of conduct trial
+toothpaste is used for clean tooth
+person has property human
+eat vegetable causes good health
+harmonica is used for make music
+ear is used for hear sound
+stove is capable of heat food
+dog desires bone
+chew your food has subevent swallow
+person is capable of wear hat
+child is capable of ask question
+plate is used for hold food
+drill hole has prerequisite for get drill
+bicycle is used for ride
+weapon is used for hurt someone
+person desires compliment
+cat is capable of kill bird
+water plant has prerequisite for get water
+harpsichord is used for make music
+barbecue is used for cook food
+fire extinguisher is used for put out fire
+airplane is form of transportation
+desk is used for work
+person is capable of miss appointment
+author is capable of write poem
+get warm has prerequisite for put on clothe
+office is used for work
+live has prerequisite for be born
+crime causes desire of serve justice
+wood is capable of burn
+paper is capable of burn
+get fit has subevent exercise
+calendar is used for keep track of time
+chef is capable of prepare meal
+swim has subevent get wet
+refrigerator is used for keep food from spoil
+pistol is used for shoot bullet
+coat is used for keep warm
+fire is capable of destroy forest
+get in shape has prerequisite for work out
+cash in causes get money
+gun has property dangerous
+chef is capable of prepare food
+cake is at bakery
+water is at bottle
+bat is at cave
+tooth is at mouth
+egg is at fridge
+folder is at file cabinet
+document folder is at file cabinet
+beer is at bar
+ocean is at earth
+museum is at city
+telephone booth is at city
+town is at country
+wiener dog is at yard
+water is at puddle
+knob is at door
+dance club is at city
+escalator is at mall
+lens is at camera
+wallet is at purse
+gel toothpaste is at bathroom
+cat desires sleep
+cat desires play
+person receives action kill
+music causes desire of dance
+beer is used for drink
+car is at road
+dog desires play
+cat desires chase mouse
+car is at town
+woman is capable of give birth
+cigarette is used for smoke
+your brain is used for think
+tv is at house
+ear is part of head
+program has subevent type
+pan is at kitchen
+printer is used for print
+steer wheel is at in car
+ice has property hard
+sleep has prerequisite for brush your tooth
+car is used for transportation
+chair is made of wood
+head is part of body
+refrigerator is used for store food
+salt has property salty
+get job causes earn money
+book causes desire of sleep
+cup is made of plastic
+wallet is made of leather
+heart is symbol of love
+sword is used for kill
+car has property expensive
+game has property fun
+seaweed soup is made of seaweed
+mouse is animal
+couple is capable of have sex
+have sex has subevent kiss your partner
+sunglass is capable of protect eye from sun
+thumb tack has property sharp
+tornado has property very destructive
+most baby has property cute
+computer is at store
+pipe is used for smoke
+floppy disk has property obsolete
+agree with someone has subevent nod of head
+skate has first subevent of put skate on
+god is at heaven
+gun has property very dangerous
+other planet is at solar system
+butter is at refrigerator
+agree with someone has subevent someone nod
+do some exercise has last subevent of do cool-down
+fish is at lake
+arm has a one hand
+cat is used for catch mouse
+bathe has subevent wash my hair
+flirt causes sex
+card is at deck
+dead person is at war
+take shower has last subevent of dry off
+ice is capable of cool drink
+parent is capable of name baby
+ballpoint pen is used for write with
+glass roof is used for greenhouse
+iron is capable of press clothe
+son is capable of honor his mother
+criminal is capable of case joint
+lizard is capable of sun itself on rock
+go jog has prerequisite for put on shoe
+wall is at build
+receive degree has prerequisite for go to school
+light match causes start fire
+baby is capable of cry loudly
+god is capable of exist
+wake up in morning has subevent you get catch
+island is used for surround by water
+heat element is at back yard
+doctor is capable of band
+play game causes rodent
+lie causes learn about current event
+go fish has subevent dance
+envelope has prerequisite for mail letter
+sell your new book is used for cool off
+picnic basket is used for live
+happiness causes desire of sex
+have long hair is capable of have haircut
+punch someone has prerequisite for roof
+love seat is capable of ask question
+ride bike is capable of pedal
+turtle is at shell
+instrument triangle is used for dentist office
+someone has a pool
+see movie has prerequisite for casino
+finger is made of type
+go to get haircut is used for go to hairdresser
+human has a go to jail
+religion has subevent sit down
+convict is at container
+hair is used for drain
+earth is at hole in wall
+pike is capable of fish
+locker room is used for chop wood
+horse desires social animal
+clean clothe has property bad
+sun has property hard
+student is capable of climb mountain
+kiss someone is used for vacation
+soak in hotspring has subevent smoke
+war is defined as wet diaper
+knight is used for build thing
+sailor is at tie knot
+study causes be judge
+be sad is used for watch tv
+word is capable of sentence
+bathe has prerequisite for dry off
+dictionary is capable of from jail
+eye is used for head
+subway pass has prerequisite for ride subway
+work causes house
+ink has property bad for you
+sailor has subevent row boat
+have checkup is capable of make appointment with doctor
+talk with someone far away is used for use telephone
+get fit is used for travel
+mouse is used for sit on
+win has prerequisite for put on run shoe
+sleep has property yellow
+run marathon causes bone
+restaurant table is used for get wet
+post office is capable of money
+talk to someone is used for forgive someone
+jog is at exercise
+nylon is used for obsolete
+textile is used for cute
+glass has property jail
+fruit has subevent return to work
+fabric is used for make music
+smoke has subevent win
+haircutting scissor is used for wet diaper
+agree with someone is used for write letter
+woman has subevent change channel
+water has property very destructive
+table is capable of buy car
+dead person has property expensive
+program has subevent exercise
+go to restaurant is capable of eat food
+fruit is capable of shake grind
+mast desires hold sail
+sheet is capable of linen closet
+mouse is capable of cupboard
+turtle is at solar system
+kettle is capable of kitchen
+hair gel is capable of bathroom
+hear music is at dentist office
+wait room has subevent hospital
+planet is at alive
+bathroom is at board game
+snake is at fun
+student is at city
+white house is capable of washington d.c
+program is created by give birth
+apple is used for play
+toothpaste is at build
+cat causes desire of eat
+student causes desire of read book
+hair is defined as world
+pepper is capable of spice
+boot desires leather
+baby is at dine room
+take stand is symbol of peace
+fire has property linen closet
+earth has property ride subway
+play sport is made of glass
+eye is part of city
+water has subevent flow
+sing has property bright
+bear has subevent mammal
+japan causes country
+booger is capable of your nose
+rain causes string
+be sad has subevent university
+clothe receives action city
+roller coaster has property get drill
+stopwatch has subevent time thing
+forest has a state
+boredom has property shiny
+prisoner is at town
+man is capable of write in book
+boot has subevent make for walk
+walk on beach has property go to bed
+stopwatch has property sing
+sate your hunger has subevent eat something
+marijuana has property drink coffee
+sphere has property liquid
+niece receives action girl
+glass receives action expensive
+water plant has a two ear
+paperclip has prerequisite for desk
+library has a boat
+forest is at windowsill
+planet has prerequisite for ask them
+some person has property machine
+tire receives action country
+hammer has property strike nail
+baby is capable of be pet
+pistol has property weapon
+enjoy film has a radio
+sleep has prerequisite for linen closet
+blue is at train station
+bad thing has property happen to good person
+sing is capable of welcome his guest
+jazz has property round
+calculator is used for house
+commit perjury is at backseat of car
+knob is capable of plan lesson
+see exhibit has subevent get wet
+fruit receives action wing
+child desires sleep
+horseback ride has property everything
+dog is at head
+magazine is at hand
+clean clothe is used for wash them
+enjoy film has prerequisite for turn on television
+reproduce has prerequisite for money
+mast is capable of mean thing
+house has prerequisite for roof
+lion is capable of water garden
+entryway is capable of enter
+parent is used for child
+person is capable of answer question
+screwdriver is at drink
+get pay has prerequisite for chew bone
+person is at headache
+orange causes citrus fruit
+get wet is capable of get cold
+stop be marry to someone has prerequisite for wear hat
+too long hair causes desire of house
+prisoner is capable of write with
+go off strike is capable of sense fear
+kill someone has property go to jail
+student is at pot
+wait on line has subevent boredom
+hear music has subevent transportation
+person has a wash them
+play lacrosse has prerequisite for be judge
+get wet is at outer space
+dog desires camera
+go into trance is capable of meditate
+bee is used for meadow
+hit bottle is capable of go to bar
+wall is at from jail
+this is at library
+teacher has property question student
+snore has a string
+play card causes oven
+your love causes desire of fruit
+walk on beach is at war
+lie has subevent talk
+wicca has subevent bait hook
+tennis ball is used for be burn
+wait room has prerequisite for use your brake
+hand has subevent hug
+see old thing has prerequisite for tell lie
+person causes desire of urinate
+have haircut is at short hair
+dog has prerequisite for table
+astronaut is at you be sad
+walk on beach has a atmosphere
+bee is used for drive on
+seatbelt causes backseat of car
+parent is used for sleep
+tennis ball has prerequisite for get marry
+type has prerequisite for question student
+rock is at mean thing
+linoleum has prerequisite for kitchen
+tooth has a yard
+thermometer is at measure temperature
+airplane is at brush your tooth
+go for walk has prerequisite for deck
+person is capable of case joint
+meet person is capable of make new friend
+most bird has a bird
+stop your car has prerequisite for cry loudly
+box is at plastic
+something has prerequisite for bridge
+communicate has subevent zoo
+run errand has prerequisite for state
+toy has subevent delight child
+go off strike is at casino
+pay cash has subevent instrument
+cutlery drawer is used for fish
+golf club is capable of record song
+mercury is capable of fly
+strike match causes shave with
+orange is used for color
+turkey has first subevent of name of country
+country is at cry
+watch television show has prerequisite for eat food
+go to film has subevent go to movie theater
+machine gun is used for go outside
+captain is at stupid
+person has prerequisite for fear death
+play guitar has a wing
+something is at hard
+gull has subevent fall asleep
+space suit is at two leg
+milk is capable of mark paper
+stop your bicycle is capable of star in film
+listen to radio is capable of state fact
+see your favorite show has subevent turn on tv
+read magazine causes store food
+computer is at library
+play is at fun
+listen to radio has prerequisite for ask them
+your love is at band
+soak in hotspring has a two leg
+book has prerequisite for pucker up
+smoke has property strum string
+student is used for study math
+person desires surround by water
+stop be marry to someone has subevent sleep
+garden hose is used for raise your right hand
+copy machine is at hospital
+newspaper is at park
+take oath has prerequisite for burn
+dust has prerequisite for fridge
+razor is used for library
+sunglass has prerequisite for purchase ticket
+read newspaper has subevent liquid
+ficus has prerequisite for pot
+falcon is at conference
+seat is at travel
+stop be marry to someone has prerequisite for read book
+cat has prerequisite for chase mouse
+canada causes in north america
+match is used for show
+religion has a get cold
+shoe has prerequisite for take lesson
+person is capable of bridge
+trumpet causes suprise
+dive has prerequisite for car
+wicca has prerequisite for eat
+see old thing has property visit museum
+sate your hunger has subevent serve justice
+eat in restaurant has property make reservation
+crater is at fly
+join army has subevent enlist
+hostess is capable of windowsill
+person has property experience joy
+go on stage has subevent wood
+country is capable of seed field
+pair of pant has property wear
+take stand is used for testify
+temple is used for buy ticket
+telephone has prerequisite for desk
+read newspaper has prerequisite for short hair
+listen to music is used for play cd
+boredom causes play game
+buy product causes protect eye from sun
+play card has subevent strum string
+glass has property hold liquid
+pass class causes plant
+fly has subevent fly
+watch television show is used for protect your foot
+action figure has prerequisite for toy store
+fire causes burn house
+play sport causes wood
+round trip ticket has subevent get marry
+take bath has subevent band
+sun is capable of bottle beer
+drive has property eat
+mop is capable of break
+driftwood has subevent beach
+hostess is at street
+use computer is capable of type
+go to restaurant has subevent music
+politician is capable of be born
+good has property battle evil
+eat breakfast is used for gain energy
+print on printer has prerequisite for room
+hear sing causes swallow
+sex is capable of three letter word
+fruit is ask question
+bagel has subevent bread
+moon is at long way away
+fish is capable of give birth
+child has property hollow
+kiss someone has property good
+doctor is capable of person
+flower is used for fragrant
+earth is part of heat food
+bookshelf is used for kiss your partner
+stove is capable of cook dinner
+decide criminal s fate is used for fun
+salt is used for go to bed
+dog is capable of be pet
+hand is used for cup water
+fly kite causes desire of go outside
+ink is used for make music
+sing is at open your mouth
+museum ticket is used for house
+use television has prerequisite for enter
+chapel is capable of get marry
+bucket has prerequisite for carry liquid
+get wet is used for make clothe
+paperclip is used for eat food with
+surf web has prerequisite for drink beer
+go off strike has property alive
+smoker is capable of fun
+see movie has property buy ticket
+enjoy film causes desire of buy ticket
+chapel is capable of pray
+machine is used for biped
+toothbrush is used for sleep
+person is at make mistake
+boat is at form of transportation
+rhode island is at state
+crime has property conduct trial
+drink causes liquid
+person has subevent human
+machine causes good health
+stop your car is used for hear sound
+metal is capable of heat food
+guitar has subevent swallow
+person is capable of fill with air
+strike match is capable of ask question
+plate has property hold food
+bicycle is used for act
+enjoy film is used for hurt someone
+person has subevent compliment
+get fit is capable of kill bird
+do some exercise has prerequisite for get water
+parrot is used for make music
+comfort friend is used for cook food
+fire extinguisher has subevent put out fire
+woman is form of transportation
+desk is used for cave
+wood is capable of miss appointment
+reproduce is at have child
+puppy is capable of write poem
+get warm has prerequisite for call someone
+office is used for go to jail
+live is capable of be born
+crime is used for serve justice
+wood is at burn
+paper is capable of you be sad
+get fit has subevent disease
+calendar is part of keep track of time
+chef is capable of drive on
+car has subevent get wet
+barbecue is used for keep food from spoil
+pistol is used for form of transportation
+coat is used for go to court
+country has prerequisite for work out
+newspaper has property dangerous
+escalator is capable of prepare food
+person desires be burn
+remember phone number is used for call someone
+ear is at bakery
+water is at fill with air
+see movie is at cave
+tooth is at make clothe
+dog is at fridge
+folder has property file cabinet
+document folder has subevent file cabinet
+beer is at star in film
+ocean has property earth
+skate is at city
+town is at connect to internet
+wiener dog is at spice
+water is at bird
+knob is at bottle
+dance club is symbol of city
+eye is at mall
+lens is at die
+picnic basket is at purse
+kayak is at bathroom
+person desires sleep
+cat causes play
+person receives action put on shoe
+music causes desire of state fact
+beer is capable of drink
+car is at money
+playground desires play
+garden desires chase mouse
+car causes town
+see movie is capable of give birth
+your brain is used for stand up
+french horn is at musical instrument
+plate is at house
+person is part of head
+breathe has a live
+trumpet is used for musical instrument
+pan desires kitchen
+printer is used for immature dog
+receive degree is at in car
+ice has property know answer
+sleep is at brush your tooth
+lisp is used for transportation
+chair has a wood
+head is part of urinate
+refrigerator is used for make music
+salt has property you be happy
+get job causes universe
+book causes desire of young human male
+cup is made of park
+orange is made of leather
+heart is symbol of divorce
+use television is used for kill
+car is used for expensive
+game has property flower
+seaweed soup is made of state
+pig has subevent mammal
+mouse causes desire of animal
+program is capable of have sex
+subway pass has subevent kiss your partner
+college is capable of protect eye from sun
+sex has property sharp
+bicycle be is at mean of transportation
+arm has property very destructive
+cat has property cute
+computer is capable of store
+pipe is used for radio
+floppy disk has prerequisite for obsolete
+agree with someone has subevent opposite of peace
+skate is at put skate on
+instrument triangle is at heaven
+gun has property see
+other planet has prerequisite for solar system
+butter is at train station
+agree with someone is capable of someone nod
+do some exercise is capable of do cool-down
+piano is at instrument of music
+car has a one hand
+nylon is used for catch mouse
+bathe has subevent jail
+flirt is capable of sex
+card has property deck
+wait on table is at war
+drink has last subevent of dry off
+ice has subevent cool drink
+sing has prerequisite for you be happy
+turkey is capable of name baby
+tiger is used for write with
+glass roof is capable of greenhouse
+iron desires press clothe
+son causes honor his mother
+criminal has subevent case joint
+lizard has subevent sun itself on rock
+go jog has prerequisite for person
+wall has prerequisite for build
+carpet has prerequisite for go to school
+light match is capable of start fire
+beer is capable of cry loudly
