@@ -189,6 +189,7 @@ with tf.Session(config=config) as sess:
             enc=enc,
             PAD_ID=PAD_ID,
         )
+        print("HEREHEREHEREHEREHEREKFJALKSDJF;ALKSDJFALKSDJFALDKSDJFLKADJFJJFJFJFJJFJFAIERJEIREIU")
 
     params = tf.trainable_variables()
     for item in params:
@@ -243,6 +244,7 @@ with tf.Session(config=config) as sess:
         print("Reading model parameters from %s and initialize the parameters for fine-tuning." % (train_dir))
 
     if FLAGS.is_train:
+        print("HEREHEREHEREHEREHEREKFJALKSDJF;ALKSDJFALKSDJFALDKSDJFLKADJFJJFJFJFJJFJFAIERJEIREIU")
         counter = 0
         best_loss = 1e10
         pre_losses = [1e18] * 3
