@@ -181,6 +181,7 @@ with tf.Session(config=config) as sess:
             PAD_ID=PAD_ID,
         )
     else:
+        print("HEREHEREHEREHEREHEREKFJALKSDJF;ALKSDJFALKSDJFALDKSDJFLKADJFJJFJFJFJJFJFAIERJEIREIU")
         model_loss = model.train(
             hparams=hparams,
             context=context,
