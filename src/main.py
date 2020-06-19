@@ -248,6 +248,7 @@ with tf.Session(config=config) as sess:
         while True:
             random.shuffle(data_train)
             start_time = time.time()
+            print(1)
             loss = train(sess, data_train, is_train=True)
             counter += 1
             if loss > max(pre_losses):  # Learning rate decay
